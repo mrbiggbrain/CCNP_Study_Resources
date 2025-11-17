@@ -72,6 +72,10 @@ Note: I highly recomend checking out Ebay for any of these books you are interes
 
 [CCNP Enterprise Wireless Design ENWLSD 300-425 and Implementation ENWLSI 300-430 Official Cert Guide, 2nd Edition](https://www.ciscopress.com/store/ccnp-enterprise-wireless-design-enwlsd-300-425-and-9780138249892)
 
+### Review Guides
+
+[31 Days Before Your CCNP and CCIE Enterprise Core Exam](https://www.ciscopress.com/store/31-days-before-your-ccnp-and-ccie-enterprise-core-exam-9780136965169)
+
 ### Lab Books
 
 [CCNP Enterprise: Core Networking (ENCOR) v8 Lab Manual, 2nd Edition](https://www.ciscopress.com/store/ccnp-enterprise-core-networking-encor-v8-lab-manual-9780136906438)
@@ -103,15 +107,17 @@ Note: I highly recomend checking out Ebay for any of these books you are interes
 
 [Routing TCP/IP, Volume 2, 2nd Edition](https://www.ciscopress.com/store/routing-tcp-ip-volume-ii-ccie-professional-development-9781587054709) ★
 
-[EIGRP Network Design Solutions](https://www.ciscopress.com/store/eigrp-network-design-solutions-9781578701650)
+[EIGRP Network Design Solutions](https://www.ciscopress.com/store/eigrp-network-design-solutions-9781578701650) ★
 
-[OSPF Network Design Solutions, 2nd Edition](https://www.ciscopress.com/store/ospf-network-design-solutions-9781587050329)
+[OSPF Network Design Solutions, 2nd Edition](https://www.ciscopress.com/store/ospf-network-design-solutions-9781587050329) ★
 
 [Advanced IP Network Design](https://www.ciscopress.com/store/advanced-ip-network-design-ccie-professional-development-9781578700974)
 
-[BGP](https://www.oreilly.com/library/view/bgp/9780596002541/)
+[BGP](https://www.oreilly.com/library/view/bgp/9780596002541/) ★
 
-[OSPF: Anatomy of an Internet Routing Protocol](https://www.oreilly.com/library/view/ospf-anatomy-of/0201634724/)
+[OSPF: Anatomy of an Internet Routing Protocol](https://www.oreilly.com/library/view/ospf-anatomy-of/0201634724/) ★
+
+[IP Routing on Cisco IOS, IOS XE, and IOS XR: An Essential Guide to Understanding and Implementing IP Routing Protocols](https://www.ciscopress.com/store/ip-routing-on-cisco-ios-ios-xe-and-ios-xr-an-essential-9781587144233)
 
 ### Legacy Books
 
@@ -121,5 +127,32 @@ Note: I highly recomend checking out Ebay for any of these books you are interes
 
 [CCNP Routing and Switching TSHOOT 300-135 Official Cert Guide](https://www.ciscopress.com/store/ccnp-routing-and-switching-tshoot-300-135-official-9781587205613)
 
-### CCIE Series
+### Advanced Topics
 
+[End-to-End QoS Network Design: Quality of Service for Rich-Media & Cloud Networks, 2nd Edition](https://www.ciscopress.com/store/end-to-end-qos-network-design-quality-of-service-for-9780133116106)
+
+[Designing for Cisco Network Service Architectures (ARCH) Foundation Learning Guide](https://www.ciscopress.com/store/designing-for-cisco-network-service-architectures-arch-9781587144622)
+
+[Cisco LAN Switching]()
+
+[SD-WAN: Example-based Study Guide: Volume 1](https://www.amazon.com/SD-WAN-Example-based-Study-Guide-1/dp/B0BYBH3FRS)
+
+[SD-WAN: Example-based Study Guide: Volume 2](https://www.amazon.com/SD-WAN-Example-based-Study-Guide-2/dp/B0D5C3SJP4)
+
+[CCIE Routing and Switching v5.0 Official Cert Guide, Volume 1, 5th Edition](https://www.ciscopress.com/store/ccie-routing-and-switching-v5.0-official-cert-guide-9781587143960)
+
+[CCIE Practical Studies, Volume I](https://www.ciscopress.com/store/ccie-practical-studies-volume-i-9781587200021)
+
+[CCIE Practical Studies, Volume II](https://www.ciscopress.com/store/ccie-practical-studies-volume-ii-9781587052941)
+
+[Advanced MPLS Design and Implementation](https://www.ciscopress.com/store/advanced-mpls-design-and-implementation-9781587050206)
+
+## Lab Software
+
+[Cisco CML Personal](https://learningnetworkstore.cisco.com/cisco-modeling-labs-personal/cisco-modeling-labs-personal/CML-PERSONAL.html) ★ + [MINISFORUM MS-A2 Mini Workstation (96GB RAM, AMD Ryzen 9 9955HX)](https://www.amazon.com/dp/B0FGJD9Y7N)
+
+## Practice Tests
+
+[ExSim-Max for Cisco 350-401 ENCOR](https://boson.com/product/exsim-max-for-cisco-350-401-encor/) ★
+
+[ExSim-Max for Cisco 300-410 ENARSI](https://boson.com/product/exsim-max-for-cisco-300-410-enarsi/) ★
